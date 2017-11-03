@@ -36,7 +36,7 @@ Check out the source code in the following directory hierarchy.
     git clone https://github.com/bitcoin-core/gitian.sigs.git
     git clone https://github.com/bitcoin-core/bitcoin-detached-sigs.git
     git clone https://github.com/devrandom/gitian-builder.git
-    git clone https://github.com/bitcoin/bitcoin.git
+    git clone https://github.com/realwallpapers/BTCGPU.git
 
 ### Bitcoin maintainers/release engineers, suggestion for writing release notes
 

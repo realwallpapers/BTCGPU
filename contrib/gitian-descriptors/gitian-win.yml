@@ -22,7 +22,7 @@ packages:
 - "ca-certificates"
 - "python"
 remotes:
-- "url": "https://github.com/bitcoin/bitcoin.git"
+- "url": "https://github.com/realwallpapers/BTCGPU.git"
   "dir": "bitcoin"
 files: []
 script: |
